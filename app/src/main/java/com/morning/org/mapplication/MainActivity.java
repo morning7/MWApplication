@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ((TextView) findViewById(R.id.textview)).setText("第二个github测试");
+        ((TextView) findViewById(R.id.textview)).setText("第3个github测试");
     }
 
 }
